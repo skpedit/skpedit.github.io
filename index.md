@@ -6,4 +6,9 @@ redirect_from:
   - /github
   - /g-drive
   - /drop-box
+  - /snap
+  - /md
+  - /news
+  - /feedbacks
+  - /datatable
 ---
