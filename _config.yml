@@ -1,0 +1,10 @@
+title: "My Angular Jekyll Site"
+description: "A site using Jekyll and Angular"
+baseurl: "" # or "/subfolder"
+url: "https://skpedit.github.io"
+
+# Ensure the redirect-from plugin is enabled
+plugins:
+  - jekyll-redirect-from
+
+# Other configuration options as needed
