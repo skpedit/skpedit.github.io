@@ -11,4 +11,5 @@ redirect_from:
   - /news
   - /feedbacks
   - /datatable
+  - /backup
 ---
