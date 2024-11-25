@@ -12,4 +12,5 @@ redirect_from:
   - /feedbacks
   - /datatable
   - /backup
+  - /tasks
 ---
